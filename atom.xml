@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://love1221.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-10-30T02:17:42.177Z</updated>
+    <title>我们的幸福生活～</title>
+    <updated>2019-10-30T02:18:56.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://love1221.github.io"/>
     <link rel="self" href="https://love1221.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>2019年12月21日，我们结婚啦～</subtitle>
     <logo>https://love1221.github.io/images/avatar.png</logo>
     <icon>https://love1221.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 我们的幸福生活～</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://love1221.github.io/post/hello-gridea</id>
